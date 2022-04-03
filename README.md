@@ -66,7 +66,7 @@ Maka akan tampil ;
 
  ![image](https://user-images.githubusercontent.com/72779594/161435183-ce0d67cb-c1c8-4fa6-b74d-99875425051f.png)
  
-                                              Hasil akhir ;
+     Hasil akhir ;
 
 ![image](https://user-images.githubusercontent.com/72779594/161435263-a2ff70a1-947f-4d24-be80-8222b6ed67b8.png)
 
