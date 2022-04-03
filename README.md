@@ -11,8 +11,6 @@ Latihan dasar membuat “box” di html
 
  ![image](https://user-images.githubusercontent.com/72779594/161435065-63f73626-0d81-4b1a-ac02-8a5574e7aea4.png)
 
-
- 
     3.	Membuat HEADER
 
  ![image](https://user-images.githubusercontent.com/72779594/161435069-de71863f-cb86-46ae-a9c6-7ac2a33a3c6e.png)
