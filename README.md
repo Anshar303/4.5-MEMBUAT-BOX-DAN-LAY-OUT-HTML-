@@ -149,7 +149,12 @@ Maka akan tampil ;
 ![Screenshot (134)](https://user-images.githubusercontent.com/72779594/161924725-67ac23f7-099f-4687-b8dd-a6b697107fd2.png)
 
 
+------------
+------------
+------------
 
+    Hasil koding di ABOUT
+    
 
 
 
