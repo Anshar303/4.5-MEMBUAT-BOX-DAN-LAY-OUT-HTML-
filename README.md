@@ -153,24 +153,29 @@ Maka akan tampil ;
 ------------
 ------------
 
-    Hasil koding di ABOUT
-    
+                                             Hasil koding dari ABOUT
+
+![image](https://user-images.githubusercontent.com/72779594/161927719-41f87b63-0896-44fb-bd62-af1f6eb538c1.png)
+
+![image](https://user-images.githubusercontent.com/72779594/161927760-c2f2043f-183b-49b9-bc75-d4b42d3ea4f2.png)
+
+![image](https://user-images.githubusercontent.com/72779594/161927794-f4067495-f533-4474-b4fe-fee360b63a0c.png)
+
+
+ 
+
+
+                                              Hasil koding dari KONTAK
+                                                 
+![image](https://user-images.githubusercontent.com/72779594/161927938-e9ec2d19-fa57-460f-a245-787a7bcafffe.png)
+
+![image](https://user-images.githubusercontent.com/72779594/161927974-dcfa47b7-99b6-46fc-ae79-9bc0210bcc72.png)
+
+![image](https://user-images.githubusercontent.com/72779594/161927995-15d52344-d573-476d-bf49-d7be37d068f3.png)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                               ~    ~   ~   ~   TERIMAKASIH     ~   ~   ~   ~                                            
 
 
 
