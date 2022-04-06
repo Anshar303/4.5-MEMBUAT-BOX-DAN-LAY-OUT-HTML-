@@ -76,4 +76,112 @@ Maka akan tampil ;
 ------------
 ------------
 
+   Selanjutnya membuat LAYOUT
+
+    1.	 Membuat struktur container nya 
+
+![image](https://user-images.githubusercontent.com/72779594/161920747-fd993e61-3668-4c6c-8ebf-deb8774ee483.png)
+ 
+
+    2.	Membuat file css dan menghubungkan nya 
+
+ ![image](https://user-images.githubusercontent.com/72779594/161920848-147f7008-f6dd-4cc9-ac5b-278906ddeee8.png)
+
+
+ 
+    3.	Membuat koding kerangka kerjanya 
+
+ ![image](https://user-images.githubusercontent.com/72779594/161920879-7e1de8e8-0c9f-45ee-abcd-31d6e3f2b3d3.png)
+
+
+    4.	Membut style CSS untuk membuat layout nya 
+
+ ![image](https://user-images.githubusercontent.com/72779594/161922543-9e5ec86e-dcc9-4e66-80be-7d51d0d89442.png)
+
+
+    5.	Membuat navigasi di CSS 
+
+ ![image](https://user-images.githubusercontent.com/72779594/161922591-dcbd5200-8378-4b06-9b43-0b94a648f237.png)
+
+
+
+6.	Membuat hero panel
+
+ ![image](https://user-images.githubusercontent.com/72779594/161922628-d3d7fddc-29e9-4e99-8321-cbf3cbff896e.png)
+ 
+ ![image](https://user-images.githubusercontent.com/72779594/161922733-7f4cc762-ed80-4621-b758-a376d5f14d15.png)
+
+
+7.	Mengatur layout main side bar
+
+ ![image](https://user-images.githubusercontent.com/72779594/161922773-8db5cac2-016e-49e4-838f-54875dec41fc.png)
+ 
+8.	Membuat dan mengatur sidebar widget
+
+ ![image](https://user-images.githubusercontent.com/72779594/161922839-4ae89f9e-8342-47ca-b0b6-7125b0af100a.png)
+
+9.	Membuat footer dan mengaturnya 
+
+ 
+ ![image](https://user-images.githubusercontent.com/72779594/161922947-af73eab1-cf83-4bbd-aad0-ab0559939208.png)
+
+
+ 
+10.	Menambahkan element dan box 
+
+
+ ![image](https://user-images.githubusercontent.com/72779594/161922977-247558a3-253a-4015-9abd-020f2bb21ff1.png)
+
+![image](https://user-images.githubusercontent.com/72779594/161923002-aeb253d9-bde0-4477-a857-5d4cc5f40ecb.png)
+
+ 
+
+11.	Menambahkan konten dan mengaturnya
+
+ 
+![image](https://user-images.githubusercontent.com/72779594/161923096-68563e3a-5a7e-4c11-b6e9-988c2f1f914f.png)
+
+ ![image](https://user-images.githubusercontent.com/72779594/161923113-909f2962-78c2-4689-8aa6-33fa032d62e7.png)
+
+
+                                             HASIL NYA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
